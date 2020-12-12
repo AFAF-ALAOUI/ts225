@@ -90,3 +90,7 @@ for i=1:4:length(binarisation_eff)
        I_code_str=[I_code_str 'B'];
     end
 end
+I_code=I_code_str(:,4:end);
+chiffre1=chiffrement(I_code);
+I_code2=I_code_str(:,51:end);
+chiffre2=chiffrement(I_code2);
