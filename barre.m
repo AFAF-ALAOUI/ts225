@@ -3,7 +3,7 @@ close all
 
 addpath 'Data' ;
 
-N=95; %unitï¿½
+N=95; %unité
 I = double(imread('ean13.jpg'));
 [h,w,z] = size(I);
 
@@ -18,7 +18,7 @@ else  %image en vraies couleurs
     figure, imshow(uint8(imgY)),
 end
 
-%% Lancer alï¿½atoire d'un rayon
+%% Lancer aléatoire d'un rayon
 [A,B] = ginput(2);
 
 line(A,B)
@@ -46,7 +46,7 @@ crit = critere( H.Values, 256);
 value = (H.BinEdges(crit)+H.BinEdges(crit+1))/2;
 binarisation = im  > value;
 
-%Dï¿½but et fin effectifs du code barre
+%Début et fin effectifs du code barre
 for i=1:length(binarisation)
     if(binarisation(i) == 0)
         A_eff = samples(:,i);
@@ -83,15 +83,18 @@ end
 binarisation_eff = im_eff  > value;
 
 I_code_str=[];
-for i=1:4:length(binarisation_eff)
-    if(binarisation_eff(i)==0)
+for i=1:length(binarisation_eff)/4
+    if(binarisation_eff(4*i)==0)
        I_code_str=[I_code_str 'N'];
     else
        I_code_str=[I_code_str 'B'];
     end
 end
-I_code=I_code_str(:,4:end);
+
+
+I_code=I_code_str(:,unit_base-1:end);
 chiffre1=chiffrement(I_code);
 I_code2=I_code_str(:,51:end);
 chiffre2=chiffrement(I_code2);
-chiffre=[chiffre1 chiffre2];
+
+
