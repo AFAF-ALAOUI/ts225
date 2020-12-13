@@ -92,9 +92,14 @@ for i=1:length(binarisation_eff)/4
 end
 
 
-I_code=I_code_str(:,4:end);
-chiffre1=chiffrement(I_code);
-I_code2=I_code_str(:,51:end);
-chiffre2=chiffrement(I_code2);
+%I_code=I_code_str(:,4:end);
+%chiffre1=chiffrement(I_code);
+%I_code2=I_code_str(:,51:end);
+%chiffre2=chiffrement(I_code2);
+I_code=[I_code_str(:,4:45) I_code_str(:,51:end)];
+chiffres=chiffrement(I_code);
+famille=premier_chiffre(I_code);
+first_number=chiffre_famille(famille);
+chiffres=[first_number chiffres];
 
 
