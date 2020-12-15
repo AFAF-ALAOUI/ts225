@@ -4,11 +4,10 @@ clc,
 
 addpath 'Data' ;
 
-N=95; %unités
-
-I = double(imread('beurre.jfif'));
+N=95; %unité
+I = double(imread('Capture.jpg'));
 [h,w,z] = size(I);
-sigmaG = 0.8;
+sigmaG = 1.5;
 sigmaT = 1.25;
 
 if ( z==1) 
@@ -27,18 +26,27 @@ end
 
 [Ix,Iy] = gradient(imgY,sigmaG);
 omega = pond_omega(sigmaT);
-T =Tenseur(omega,1,7,Ix,Iy);
+Tx = Tenseur(omega,Ix,Ix);
+Ty = Tenseur(omega,Iy,Iy);
+Txy = Tenseur(omega,Ix,Iy);
 
-% for i=1:h
-%    for j=1:w
-%         D(i,j) = coherence(omega,i,j,Ix,Iy);
-%     end
-% end
+
+D = zeros(h,w);
+for i=1:h
+    for j=1:w
+        D(i,j)=sqrt((Tx(i,j)-Ty(i,j))^2 + 4*Txy(i,j)^2)/(Tx(i,j)+Ty(i,j));
+    end
+end
+ 
+figure, imshow(D)
+
 % 
+% figure,H = histogram(D,256);
+% crit = critere( H.Values, 256);
+% value = (H.BinEdges(crit)+H.BinEdges(crit+1))/2;
+% im = value > D;
 % 
-
-
-
+% figure, imshow(im)
 
 
 

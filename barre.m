@@ -3,8 +3,8 @@ close all
 
 addpath 'Data' ;
 
-N=95; %unitÃ©
-I = double(imread('ean13.jpg'));
+N=95; %unité
+I = double(imread('img.png'));
 [h,w,z] = size(I);
 
 if ( z==1) 
@@ -18,12 +18,12 @@ else  %image en vraies couleurs
     figure, imshow(uint8(imgY)),
 end
 
-%% Lancer alÃ©atoire d'un rayon
+%% Lancer aléatoire d'un rayon
 [A,B] = ginput(2);
 
 line(A,B)
 distAB = sqrt((A(2)-A(1))^2+(B(2)-B(1))^2);
-Npts = floor(distAB*2);
+Npts = floor(distAB*5);
 samples = zeros(2,Npts);
 for i=0:Npts-1
     samples(:,i+1) = [A(1);B(1)]+i/(Npts-1)*([A(2);B(2)]-[A(1);B(1)]);
@@ -46,7 +46,7 @@ crit = critere( H.Values, 256);
 value = (H.BinEdges(crit)+H.BinEdges(crit+1))/2;
 binarisation = im  > value;
 
-%DÃ©but et fin effectifs du code barre
+%Début et fin effectifs du code barre
 for i=1:length(binarisation)
     if(binarisation(i) == 0)
         A_eff = samples(:,i);
@@ -54,7 +54,7 @@ for i=1:length(binarisation)
     end
 end
 i = length(binarisation);
-while (i~=0)
+while (i~=1)
     if(binarisation(i) == 0)
         B_eff = samples(:,i);
         break;
@@ -64,7 +64,6 @@ end
 
 
 % Nouveau Echantillonnage
-
 distAB_eff = sqrt((B_eff(2)-A_eff(2))^2+(B_eff(1)-A_eff(1))^2);
 unit_base = floor(distAB_eff/95);
 Npts = unit_base*N;
@@ -83,23 +82,17 @@ end
 binarisation_eff = im_eff  > value;
 
 I_code_str=[];
-for i=1:length(binarisation_eff)/4
-    if(binarisation_eff(4*i)==0)
-       I_code_str=[I_code_str 'N'];
-    else
+for i=1:length(binarisation_eff)/unit_base
+    if((sum(binarisation_eff(unit_base*(i-1)+1:unit_base*(i-1)+unit_base))/unit_base)>= 1/2)
        I_code_str=[I_code_str 'B'];
+    else
+       I_code_str=[I_code_str 'N'];
     end
+
 end
 
-
-%I_code=I_code_str(:,4:end);
-%chiffre1=chiffrement(I_code);
-%I_code2=I_code_str(:,51:end);
-%chiffre2=chiffrement(I_code2);
-I_code=[I_code_str(:,4:45) I_code_str(:,51:end)];
-chiffres=chiffrement(I_code);
-famille=premier_chiffre(I_code);
+I_code=[I_code_str(4:45) I_code_str(51:end-3)];
+chiffre=chiffrement(I_code);
+famille=premier_chiffre(I_code_str(4:45));
 first_number=chiffre_famille(famille);
-chiffres=[first_number chiffres];
-
-
+chiffres=[first_number chiffre];

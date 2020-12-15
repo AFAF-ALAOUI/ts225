@@ -1,5 +1,3 @@
-function T_ab = Tenseur(omega,x,y,Ia,Ib)
-
-    T_ab = conv2(omega,Ia(x,y).*Ib(x,y));
-     
+function T = Tenseur(omega,Ia,Ib)
+    T = conv2(Ia.*Ib,omega,'same');  
 end
