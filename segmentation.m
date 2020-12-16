@@ -5,10 +5,10 @@ clc,
 addpath 'Data' ;
 
 N=95; %unité
-I = double(imread('Capture.jpg'));
+I = double(imread('auch.jpg'));
 [h,w,z] = size(I);
 sigmaG = 1.5;
-sigmaT = 1.25;
+sigmaT = 0.5;
 
 if ( z==1) 
     imgY = I;
@@ -31,22 +31,12 @@ Ty = Tenseur(omega,Iy,Iy);
 Txy = Tenseur(omega,Ix,Iy);
 
 
-D = zeros(h,w);
-for i=1:h
-    for j=1:w
-        D(i,j)=sqrt((Tx(i,j)-Ty(i,j))^2 + 4*Txy(i,j)^2)/(Tx(i,j)+Ty(i,j));
-    end
-end
- 
-figure, imshow(D)
-
-% 
-% figure,H = histogram(D,256);
-% crit = critere( H.Values, 256);
-% value = (H.BinEdges(crit)+H.BinEdges(crit+1))/2;
-% im = value > D;
-% 
-% figure, imshow(im)
+D = sqrt((Tx-Ty).^2 + 4*Txy.^2)./(Tx+Ty);
+figure,imshow(D)
 
 
+seuil = max(max(D))*0.99;
+D_bin = seuil > D;
+
+figure,imshow(D_bin)
 
