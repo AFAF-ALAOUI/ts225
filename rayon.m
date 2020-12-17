@@ -4,10 +4,9 @@ close all
 addpath 'Data' ;
 
 N=95; %unité
-I = double(imread('ean13.jpg'));
+I = double(imread('img.png'));
 [h,w,z] = size(I);
 correct =0;
-
 
 while(correct~=1)
     if ( z==1) 
@@ -44,8 +43,10 @@ while(correct~=1)
     H = histogram(im,256);
 
     %% Otsu
-    crit = critere( H.Values, 256);
-    value = (H.BinEdges(crit)+H.BinEdges(crit+1))/2;
+    [crit,indice] = critere( H.Values, 256);
+    figure,plot(crit),
+    xlim([40,250]),title("Critère d'Otsu")
+    value = (H.BinEdges(indice)+H.BinEdges(indice+1))/2;
     binarisation = im  > value;
 
     %Début et fin effectifs du code barre
@@ -85,16 +86,16 @@ while(correct~=1)
 
     %%
      I_code=[binarisation_eff(3*unit_base+1:45*unit_base) binarisation_eff(50*unit_base+1:end-3*unit_base)];
-     [chiffres,famille] = chiffrement(I_code,unit_base);
-     chiffres = [chiffre_famille(famille(1:6)) chiffres];
+     [chiffres,famille,ressemblance] = chiffrement(I_code,unit_base);
+     chiffre_tot = [chiffre_famille(famille(1:6)) chiffres];
      
       %% Clé de contrôle
     key=0;
     for i=1:6
-        key = key + chiffres(2*i-1)+3*chiffres(2*i);
+        key = key + chiffre_tot(2*i-1)+3*chiffre_tot(2*i);
     end
 
-    if(10-mod(key,10)==chiffres(13))
+    if(10-mod(key,10)==chiffre_tot(13))
         correct = 1;
     end
 end
