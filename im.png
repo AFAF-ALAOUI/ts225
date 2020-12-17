@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html class="html" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.sellermania.com/xmlrpc.php">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Définition du code EAN - Sellermania</title>
+<meta name="description" content="L’EAN (European Article Numbering) est un code-barres à 8 ou 13 chiffres permettant d’identifier un produit unique, qui est employé dans le commerce et"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.sellermania.com/blog/news/definition-code-ean/"/>
+<meta property="og:locale" content="fr_FR">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Définition du code EAN - Sellermania">
+<meta property="og:description" content="L’EAN (European Article Numbering) est un code-barres à 8 ou 13 chiffres permettant d’identifier un produit unique, qui est employé dans le commerce et">
+<meta property="og:url" content="https://www.sellermania.com/blog/news/definition-code-ean/">
+<meta property="og:site_name" content="Sellermania">
+<meta property="article:publisher" content="https://www.facebook.com/sellermania/">
+<meta property="article:section" content="News">
+<meta property="og:updated_time" content="2020-12-08T14:55:08+01:00">
+<meta property="og:image" content="https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-définition.jpg">
+<meta property="og:image:secure_url" content="https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-définition.jpg">
+<meta property="og:image:width" content="500">
+<meta property="og:image:height" content="500">
+<meta property="og:image:alt" content="code ean définition">
+<meta property="og:image:type" content="image/jpeg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Définition du code EAN - Sellermania">
+<meta name="twitter:description" content="L’EAN (European Article Numbering) est un code-barres à 8 ou 13 chiffres permettant d’identifier un produit unique, qui est employé dans le commerce et">
+<meta name="twitter:site" content="@Sellermania">
+<meta name="twitter:creator" content="@Sellermania">
+<meta name="twitter:image" content="https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-définition.jpg">
+<script type="application/ld+json" class="rank-math-schema">{
+"@context": "https://schema.org",
+"@graph": [
+{
+"@type": "Organization",
+"@id": "https://www.sellermania.com/#organization",
+"name": "Sellermania",
+"url": "https://www.sellermania.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.sellermania.com/wp-content/uploads/2019/06/logo-sellermania-header-190x52.png"
+}},
+{
+"@type": "WebSite",
+"@id": "https://www.sellermania.com/#website",
+"url": "https://www.sellermania.com",
+"name": "Sellermania",
+"publisher": {
+"@id": "https://www.sellermania.com/#organization"
+},
+"inLanguage": "fr-FR",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.sellermania.com/?s={search_term_string}",
+"query-input": "required name=search_term_string"
+}},
+{
+"@type": "ImageObject",
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#primaryImage",
+"url": "https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-d\u00e9finition.jpg",
+"width": 500,
+"height": 500
+},
+{
+"@type": "BreadcrumbList",
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#breadcrumb",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.sellermania.com",
+"name": "Accueil"
+}},
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/",
+"name": "D\u00e9finition du code EAN"
+}}
+]
+},
+{
+"@type": "WebPage",
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#webpage",
+"url": "https://www.sellermania.com/blog/news/definition-code-ean/",
+"name": "D\u00e9finition du code EAN - Sellermania",
+"datePublished": "2019-07-16T17:32:59+02:00",
+"dateModified": "2020-12-08T14:55:08+01:00",
+"isPartOf": {
+"@id": "https://www.sellermania.com/#website"
+},
+"primaryImageOfPage": {
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#primaryImage"
+},
+"inLanguage": "fr-FR",
+"breadcrumb": {
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#breadcrumb"
+}},
+{
+"@type": "Article",
+"headline": "D\u00e9finition du code EAN - Sellermania",
+"datePublished": "2019-07-16T17:32:59+02:00",
+"dateModified": "2020-12-08T14:55:08+01:00",
+"author": {
+"@type": "Person",
+"name": "Sylvain"
+},
+"publisher": {
+"@id": "https://www.sellermania.com/#organization"
+},
+"description": "L\u2019EAN (European Article Numbering) est un code-barres \u00e0 8 ou 13 chiffres permettant d\u2019identifier un produit unique, qui est employ\u00e9 dans le commerce et",
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#richSnippet",
+"isPartOf": {
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#webpage"
+},
+"image": {
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#primaryImage"
+},
+"inLanguage": "fr-FR",
+"mainEntityOfPage": {
+"@id": "https://www.sellermania.com/blog/news/definition-code-ean/#webpage"
+}}
+]
+}</script>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com'/>
+<link rel='dns-prefetch' href='//js.hs-scripts.com'/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel="alternate" type="application/rss+xml" title="Sellermania &raquo; Flux" href="https://www.sellermania.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Sellermania &raquo; Flux des commentaires" href="https://www.sellermania.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Sellermania &raquo; Définition du code EAN Flux des commentaires" href="https://www.sellermania.com/blog/news/definition-code-ean/feed/"/>
+<link rel="stylesheet" type="text/css" href="//www.sellermania.com/wp-content/cache/wpfc-minified/2adx3uml/bizi9.css" media="all"/>
+<style id='kk-star-ratings-inline-css'>.kk-star-ratings .kksr-stars .kksr-star{margin-right:4px;}
+[dir="rtl"] .kk-star-ratings .kksr-stars .kksr-star{margin-left:4px;margin-right:0;}</style>
+<link rel="stylesheet" type="text/css" href="//www.sellermania.com/wp-content/cache/wpfc-minified/njzre5e/bizi9.css" media="all"/>
+<style id='ez-toc-inline-css'>div#ez-toc-container p.ez-toc-title{font-size:100%;}div#ez-toc-container p.ez-toc-title{font-weight:500;}div#ez-toc-container ul li{font-size:100%;}</style>
+<link rel="stylesheet" type="text/css" href="//www.sellermania.com/wp-content/cache/wpfc-minified/2nwnkn1h/bizi8.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-46352-css' href='https://www.sellermania.com/wp-content/uploads/elementor/css/post-46352.css?ver=1607605982' type='text/css' media='all'/>
+<link rel="stylesheet" type="text/css" href="//www.sellermania.com/wp-content/cache/wpfc-minified/stnsj7j/bizi8.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-50658-css' href='https://www.sellermania.com/wp-content/uploads/elementor/css/post-50658.css?ver=1607605982' type='text/css' media='all'/>
+<link rel="stylesheet" type="text/css" href="//www.sellermania.com/wp-content/cache/wpfc-minified/l99e2gxm/bjom5.css" media="all"/>
+<link rel="https://api.w.org/" href="https://www.sellermania.com/wp-json/"/><link rel="alternate" type="application/json" href="https://www.sellermania.com/wp-json/wp/v2/posts/47226"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sellermania.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sellermania.com/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 5.6"/>
+<link rel='shortlink' href='https://www.sellermania.com/?p=47226'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.sellermania.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sellermania.com%2Fblog%2Fnews%2Fdefinition-code-ean%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.sellermania.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sellermania.com%2Fblog%2Fnews%2Fdefinition-code-ean%2F&#038;format=xml"/>
+<meta name="google-site-verification" content="4A2vqOdmFKgnSwj1JJNk8M91f83BeAYm-9-udHsz9Rw"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N56ZXS6');</script>
+<script type="application/ld+json">{
+"@context": "https://schema.org/",
+"@type": "CreativeWorkSeries",
+"name": "D&eacute;finition du code EAN",
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"bestRating": "5",
+"ratingCount": "15"
+}}</script>			
+<link rel="icon" href="https://www.sellermania.com/wp-content/uploads/2019/05/icon-512x512-150x150.png" sizes="32x32"/>
+<link rel="icon" href="https://www.sellermania.com/wp-content/uploads/2019/05/icon-512x512-300x300.png" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://www.sellermania.com/wp-content/uploads/2019/05/icon-512x512-300x300.png"/>
+<meta name="msapplication-TileImage" content="https://www.sellermania.com/wp-content/uploads/2019/05/icon-512x512-300x300.png"/>
+<style id="wp-custom-css">.wpcf7-list-item first,a:hover,a.light:hover,.theme-heading .text::before,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#50b4e2 !important}pre{background-color:#6EC1E4 !important;white-space:pre-wrap !important;border-radius:5px !important;color:#fff !important}#footer-widgets{padding:100px 0 !important}</style>
+<style>a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#50b4e2}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#50b4e2}.widget-title{border-color:#50b4e2}blockquote{border-color:#50b4e2}#searchform-dropdown{border-color:#50b4e2}.dropdown-menu .sub-menu{border-color:#50b4e2}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#50b4e2}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#50b4e2}.social-widget li.oceanwp-email a:hover{border-color:#50b4e2}#respond #cancel-comment-reply-link:hover{border-color:#50b4e2}body .contact-info-widget.big-icons li:hover i{border-color:#50b4e2}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#50b4e2}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#ffffff}a{color:#50b4e2}label,body div.wpforms-container-full .wpforms-form .wpforms-field-label{color:#ffffff}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.select2-container .select2-choice,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-color:#f4f4f4}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-color:#f4f4f4}form input[type="text"]:focus,form input[type="password"]:focus,form input[type="email"]:focus,form input[type="tel"]:focus,form input[type="url"]:focus,form input[type="search"]:focus,form textarea:focus,.select2-drop-active,.select2-dropdown-open.select2-drop-above .select2-choice,.select2-dropdown-open.select2-drop-above .select2-choices,.select2-drop.select2-drop-above.select2-drop-active,.select2-container-active .select2-choice,.select2-container-active .select2-choices{border-color:#ffffff}body div.wpforms-container-full .wpforms-form input:focus,body div.wpforms-container-full .wpforms-form textarea:focus,body div.wpforms-container-full .wpforms-form select:focus{border-color:#ffffff}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{background-color:#ffffff}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{background-color:#ffffff}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{color:#848484}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{color:#848484}body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#6ec1e4}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active{background-color:#1a67ae}
+#top-bar-wrap,.oceanwp-top-bar-sticky{background-color:#000000}#top-bar-wrap{border-color:#000000}
+#site-header,.has-transparent-header .is-sticky #site-header,.has-vh-transparent .is-sticky #site-header.vertical-header,#searchform-header-replace{background-color:#000000}#site-header{border-color:#000000}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:500px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#ffffff}.dropdown-menu .sub-menu{min-width:167px}
+#footer-widgets{background-color:#000000}
+body{font-family:Muli;font-size:18px;color:#333333}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{font-family:Muli}h1{font-family:Muli;font-size:32px;color:#6ec1e4;text-transform:uppercase}h2{font-family:Muli;font-size:30px;color:#6ec1e4}h3{font-size:22px;color:rgba(51,51,51,0.7)}h4{font-family:Muli}#top-bar-content,#top-bar-social-alt{font-weight:700}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{text-transform:uppercase}#footer-widgets .footer-box .widget-title{font-size:16px}</style>
+<script data-wpfc-render="false">var Wpfcll={s:[],osl:0,scroll:false,i:function(){Wpfcll.ss();window.addEventListener('load',function(){window.addEventListener("DOMSubtreeModified",function(e){Wpfcll.osl=Wpfcll.s.length;Wpfcll.ss();if(Wpfcll.s.length > Wpfcll.osl){Wpfcll.ls(false);}},false);Wpfcll.ls(true);});window.addEventListener('scroll',function(){Wpfcll.scroll=true;Wpfcll.ls(false);});window.addEventListener('resize',function(){Wpfcll.scroll=true;Wpfcll.ls(false);});window.addEventListener('click',function(){Wpfcll.scroll=true;Wpfcll.ls(false);});},c:function(e,pageload){var w=document.documentElement.clientHeight || body.clientHeight;var n=0;if(pageload){n=0;}else{n=(w > 800) ? 800:200;n=Wpfcll.scroll ? 800:n;}var er=e.getBoundingClientRect();var t=0;var p=e.parentNode ? e.parentNode:false;if(typeof p.getBoundingClientRect=="undefined"){var pr=false;}else{var pr=p.getBoundingClientRect();}if(er.x==0 && er.y==0){for(var i=0;i < 10;i++){if(p){if(pr.x==0 && pr.y==0){if(p.parentNode){p=p.parentNode;}if(typeof p.getBoundingClientRect=="undefined"){pr=false;}else{pr=p.getBoundingClientRect();}}else{t=pr.top;break;}}};}else{t=er.top;}if(w - t+n > 0){return true;}return false;},r:function(e,pageload){var s=this;var oc,ot;try{oc=e.getAttribute("data-wpfc-original-src");ot=e.getAttribute("data-wpfc-original-srcset");if(s.c(e,pageload)){if(oc || ot){if(e.tagName=="DIV" || e.tagName=="A"){e.style.backgroundImage="url("+oc+")";e.removeAttribute("data-wpfc-original-src");e.removeAttribute("data-wpfc-original-srcset");e.removeAttribute("onload");}else{if(oc){e.setAttribute('src',oc);}if(ot){e.setAttribute('srcset',ot);}if(e.getAttribute("alt") && e.getAttribute("alt")=="blank"){e.removeAttribute("alt");}e.removeAttribute("data-wpfc-original-src");e.removeAttribute("data-wpfc-original-srcset");e.removeAttribute("onload");if(e.tagName=="IFRAME"){e.onload=function(){if(typeof window.jQuery !="undefined"){if(jQuery.fn.fitVids){jQuery(e).parent().fitVids({customSelector:"iframe[src]"});}}var s=e.getAttribute("src").match(/templates\/youtube\.html\#(.+)/);var y="https://www.youtube.com/embed/";if(s){try{var i=e.contentDocument || e.contentWindow;if(i.location.href=="about:blank"){e.setAttribute('src',y+s[1]);}}catch(err){e.setAttribute('src',y+s[1]);}}}}}}else{if(e.tagName=="NOSCRIPT"){if(jQuery(e).attr("data-type")=="wpfc"){e.removeAttribute("data-type");jQuery(e).after(jQuery(e).text());}}}}}catch(error){console.log(error);console.log("==>",e);}},ss:function(){var i=Array.prototype.slice.call(document.getElementsByTagName("img"));var f=Array.prototype.slice.call(document.getElementsByTagName("iframe"));var d=Array.prototype.slice.call(document.getElementsByTagName("div"));var a=Array.prototype.slice.call(document.getElementsByTagName("a"));var n=Array.prototype.slice.call(document.getElementsByTagName("noscript"));this.s=i.concat(f).concat(d).concat(a).concat(n);},ls:function(pageload){var s=this;[].forEach.call(s.s,function(e,index){s.r(e,pageload);});}};document.addEventListener('DOMContentLoaded',function(){wpfci();});function wpfci(){Wpfcll.i();}</script>
+</head>
+<body class="post-template-default single single-post postid-47226 single-format-standard wp-custom-logo wp-embed-responsive oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar post-in-category-news has-topbar has-breadcrumbs elementor-default elementor-kit-50658 elementor-page elementor-page-47226" itemscope="itemscope" itemtype="https://schema.org/Article">
+<div id="outer-wrap" class="site clr">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<div id="wrap" class="clr">
+<div id="top-bar-wrap" class="clr">
+<div id="top-bar" class="clr container has-no-content">
+<div id="top-bar-inner" class="clr"></div></div></div><header id="site-header" class="minimal-header clr fixed-scroll shrink-header" data-height="54" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+<div id="site-header-inner" class="clr container">
+<div id="site-logo" class="clr has-sticky-logo" itemscope itemtype="https://schema.org/Brand">
+<div id="site-logo-inner" class="clr"> <a href="https://www.sellermania.com/" class="custom-logo-link" rel="home"><img width="190" height="52" src="https://www.sellermania.com/wp-content/uploads/2019/06/logo-sellermania-header-190x52.png" class="custom-logo" alt="Logo sellermania blanc fond noir"/></a><a href="https://www.sellermania.com/" class="sticky-logo-link" rel="home" itemprop="url"><img src="https://www.sellermania.com/wp-content/uploads/2019/06/logo-sellermania-header-190x52.png" class="sticky-logo" width="" height="" alt="" itemprop="url"/></a></div></div><div id="site-navigation-wrap" class="clr">
+<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-44605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-44605"><a href="/plateforme-pour-vendeurs-marketplaces/" class="menu-link"><span class="text-wrap">Solution logiciel Marketplaces <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+<li id="menu-item-52936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52936"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/" class="menu-link"><span class="text-wrap">Tour d&rsquo;horizon des fonctionnalités</span></a></li>	<li id="menu-item-52946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52946"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/diffusion-centralisee-des-catalogues-sur-les-marketplaces/" class="menu-link"><span class="text-wrap">Gestion de flux marketplaces</span></a></li>	<li id="menu-item-52940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52940"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/gestion-centralisee-des-commandes-marketplaces/" class="menu-link"><span class="text-wrap">Gestion centralisée des commandes marketplaces</span></a></li>	<li id="menu-item-52942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52942"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/accelerateurs-marketplaces-le-repricing/" class="menu-link"><span class="text-wrap">Accélérateurs de business marketplaces : le repricing</span></a></li>	<li id="menu-item-52944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52944"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/accelerateurs-marketplaces-optimiser-referencement/" class="menu-link"><span class="text-wrap">Accélérateurs de business marketplaces : fonctionnalités avancées</span></a></li>	<li id="menu-item-52938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52938"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/migrez-vers-sellermania/" class="menu-link"><span class="text-wrap">Gestion de flux : Migrez vers Sellermania</span></a></li></ul>
+</li><li id="menu-item-44609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-44609"><a href="/marketplaces" class="menu-link"><span class="text-wrap">Vendre sur les Marketplaces <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+<li id="menu-item-50852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50852"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-amazon/" class="menu-link"><span class="text-wrap">Amazon</span></a></li>	<li id="menu-item-50848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50848"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-back-market/" class="menu-link"><span class="text-wrap">Back Market</span></a></li>	<li id="menu-item-50854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50854"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-cdiscount-marketplace/" class="menu-link"><span class="text-wrap">Cdiscount</span></a></li>	<li id="menu-item-50856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50856"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-ebay/" class="menu-link"><span class="text-wrap">eBay</span></a></li>	<li id="menu-item-50858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50858"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-fnac-marketplace/" class="menu-link"><span class="text-wrap">Fnac</span></a></li>	<li id="menu-item-51596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51596"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/darty-marketplace/" class="menu-link"><span class="text-wrap">Darty</span></a></li>	<li id="menu-item-50860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50860"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-la-redoute/" class="menu-link"><span class="text-wrap">La Redoute</span></a></li>	<li id="menu-item-50862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50862"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-rakuten-marketplace/" class="menu-link"><span class="text-wrap">Rakuten</span></a></li>	<li id="menu-item-50864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50864"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-rue-du-commerce/" class="menu-link"><span class="text-wrap">Rue du Commerce</span></a></li>	<li id="menu-item-50850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50850"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-google-shopping-actions/" class="menu-link"><span class="text-wrap">Shopping Actions</span></a></li>	<li id="menu-item-52504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52504"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/solution-marketplaces/" class="menu-link"><span class="text-wrap">Toutes les marketplaces</span></a></li></ul>
+</li><li id="menu-item-45689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-45689"><a href="/ressources" class="menu-link"><span class="text-wrap">Ressources <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+<li id="menu-item-45695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45695"><a href="/ressources" class="menu-link"><span class="text-wrap">Livres blancs, analyses, guides</span></a></li>	<li id="menu-item-45125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45125"><a href="/blog" class="menu-link"><span class="text-wrap">Blog</span></a></li></ul>
+</li><li id="menu-item-44613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-44613"><a class="menu-link"><span class="text-wrap">Avis clients <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="sub-menu">
+<li id="menu-item-52628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52628"><a href="/les-utilisateurs-de-sellermania/" class="menu-link"><span class="text-wrap">Qui sont nos utilisateurs ?</span></a></li>	<li id="menu-item-52630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52630"><a href="/avis-clients" class="menu-link"><span class="text-wrap">L&rsquo;avis de nos utilisateurs</span></a></li></ul>
+</li><li id="menu-item-44615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44615"><a href="/contact" class="menu-link"><span class="text-wrap">Contact</span></a></li><li id="menu-item-44617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44617"><a href="https://membres.sellermania.com" class="menu-link"><span class="text-wrap">Se connecter</span></a></li><li class="search-toggle-li"><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><span class="icon-magnifier" aria-hidden="true"></span></a></li></ul>
+<div id="searchform-dropdown" class="header-searchform-wrap clr"> <form role="search" method="get" class="searchform" action="https://www.sellermania.com/"> <label for="ocean-search-form-1"> <span class="screen-reader-text">Search for:</span> <input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Rechercher" name="s"> </label> </form></div></nav></div><div class="oceanwp-mobile-menu-icon clr mobile-right"> <a href="javascript:void(0)" class="mobile-menu" aria-label="Menu mobile"> <i class="fa fa-bars" aria-hidden="true"></i> <span class="oceanwp-text">Menu</span> <span class="oceanwp-close-text">Fermer</span> </a></div></div><div id="mobile-dropdown" class="clr">
+<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44605"><a href="/plateforme-pour-vendeurs-marketplaces/">Solution logiciel Marketplaces</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52936"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/">Tour d&rsquo;horizon des fonctionnalités</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52946"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/diffusion-centralisee-des-catalogues-sur-les-marketplaces/">Gestion de flux marketplaces</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52940"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/gestion-centralisee-des-commandes-marketplaces/">Gestion centralisée des commandes marketplaces</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52942"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/accelerateurs-marketplaces-le-repricing/">Accélérateurs de business marketplaces : le repricing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52944"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/accelerateurs-marketplaces-optimiser-referencement/">Accélérateurs de business marketplaces : fonctionnalités avancées</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52938"><a href="https://www.sellermania.com/plateforme-pour-vendeurs-marketplaces/migrez-vers-sellermania/">Gestion de flux : Migrez vers Sellermania</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44609"><a href="/marketplaces">Vendre sur les Marketplaces</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50852"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-amazon/">Amazon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50848"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-back-market/">Back Market</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50854"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-cdiscount-marketplace/">Cdiscount</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50856"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-ebay/">eBay</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50858"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-fnac-marketplace/">Fnac</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51596"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/darty-marketplace/">Darty</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50860"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-la-redoute/">La Redoute</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50862"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-rakuten-marketplace/">Rakuten</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50864"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-rue-du-commerce/">Rue du Commerce</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50850"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/vendre-sur-google-shopping-actions/">Shopping Actions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52504"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/solution-marketplaces/">Toutes les marketplaces</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45689"><a href="/ressources">Ressources</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45695"><a href="/ressources">Livres blancs, analyses, guides</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45125"><a href="/blog">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44613"><a>Avis clients</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52628"><a href="/les-utilisateurs-de-sellermania/">Qui sont nos utilisateurs ?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52630"><a href="/avis-clients">L&rsquo;avis de nos utilisateurs</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44615"><a href="/contact">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44617"><a href="https://membres.sellermania.com">Se connecter</a></li>
+<li class="search-toggle-li"><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><span class="icon-magnifier" aria-hidden="true"></span></a></li></ul>
+<div id="mobile-menu-search" class="clr"> <form method="get" action="https://www.sellermania.com/" class="mobile-searchform" role="search" aria-label="Search for:"> <label for="ocean-mobile-search2"> <input type="search" name="s" autocomplete="off" placeholder="Rechercher" /> <button type="submit" class="searchform-submit" aria-label="Submit search"> <i class="icon-magnifier" aria-hidden="true"></i> </button> </label> </form></div></nav></div></header>
+<main id="main" class="site-main clr"  role="main">
+<header class="page-header hide-tablet-mobile">
+<div class="container clr page-header-inner">
+<h1 class="page-header-title clr" itemprop="headline">Blog</h1>
+<div class="site-breadcrumbs clr"><a href="https://www.sellermania.com">Accueil</a><span class="separator"> &raquo; </span><span class="last">Définition du code EAN</span></div></div></header>
+<div id="content-wrap" class="container clr">
+<div id="primary" class="content-area clr">
+<div id="content" class="site-content clr">
+<article id="post-47226">
+<div class="thumbnail"> <img width="500" height="500" src="https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-définition.jpg" class="attachment-full size-full wp-post-image" alt="Définition du code EAN" loading="lazy" itemprop="image" srcset="https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-définition.jpg 500w, https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-définition-150x150.jpg 150w, https://www.sellermania.com/wp-content/uploads/2019/06/Code-ean-définition-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></div><header class="entry-header clr">
+<h1 class="single-post-title entry-title" itemprop="headline">Définition du code EAN</h1>
+</header>
+<ul class="meta ospm-default clr">
+<li class="meta-author" itemprop="name"><span class="screen-reader-text">Post author:</span><i class="icon-user" aria-hidden="true"></i><a href="https://www.sellermania.com/author/sylvain/" title="Articles par Sylvain" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Sylvain</a></li>
+<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="icon-clock" aria-hidden="true"></i>16 juillet 2019</li>
+<li class="meta-cat"><span class="screen-reader-text">Post category:</span><i class="icon-folder" aria-hidden="true"></i><a href="https://www.sellermania.com/blog/category/news/" rel="category tag">News</a></li>
+</ul>
+<div class="entry-content clr" itemprop="text">
+<div data-elementor-type="wp-post" data-elementor-id="47226" class="elementor elementor-47226" data-elementor-settings="[]">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-22eaaa5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="22eaaa5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-145415d6" data-id="145415d6" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-278e3004 elementor-widget elementor-widget-text-editor" data-id="278e3004" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p></p>
+<p>L’EAN (European Article Numbering) est un code-barres à 8 ou 13 chiffres permettant d’identifier un produit unique, qui est employé dans le commerce et l’industrie.</p>
+<p></p>
+<p></p>
+<div id="ez-toc-container" class="ez-toc-v2_0_11 counter-hierarchy counter-decimal ez-toc-transparent">
+<div class="ez-toc-title-container"> <p class="ez-toc-title">Sommaire : </p> <span class="ez-toc-title-toggle"></span></div><nav><ul class="ez-toc-list ez-toc-list-level-1"><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-1" href="#Histoire_du_code_EAN" title="Histoire du code EAN">Histoire du code EAN</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-2" href="#A_quoi_sert_l%E2%80%99EAN" title="A quoi sert l’EAN ?">A quoi sert l’EAN ?</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-3" href="#Les_avantages_du_code_EAN" title="Les avantages du code EAN">Les avantages du code EAN</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-4" href="#Les_codes_EAN_sur_les_marketplaces" title="Les codes EAN sur les marketplaces"> Les codes EAN sur les marketplaces</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-5" href="#Structure_d%E2%80%99un_code_EAN" title="Structure d’un code EAN"> Structure d’un code EAN</a></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-6" href="#Les_differents_types_de_codebarres" title="Les différents types de code-barres"> Les différents types de code-barres</a></li></ul></nav></div><h2><span class="ez-toc-section" id="Histoire_du_code_EAN"></span><strong>Histoire du code EAN</strong><span class="ez-toc-section-end"></span></h2>
+<p></p>
+<p></p>
+<p>C’est aux Etats-Unis, après la seconde guerre mondiale, que l’idée d’un code-barres est apparue. Suite à la fin de la guerre, le nombre de magasin libre-service a explosé, et les problématiques de l’étiquetage, de la gestion des stocks et du passage en caisse se sont faites ressentir.</p>
+<p></p>
+<p></p>
+<p style="text-align:center"><img style="width: 150px;" src="https://www.sellermania.com/wp-content/uploads/2019/06/code-ean.jpg" alt=""></p>
+<p></p>
+<p></p>
+<p>Deux étudiants américains, Norman Joseph Woodland et Bernard Silver trouvèrent une solution pour automatiser et identifier facilement un produit&nbsp;: le code-barres est né. Il est à l’époque, en forme de cercle pour pouvoir être scanné de tous les côtés.</p>
+<p></p>
+<p></p>
+<div> <figure><img src="https://www.sellermania.com/wp-content/uploads/2019/06/code-barre-de-woodland.jpg" alt=""><p></p> <figcaption>Code barre de Woodland et Silver</figcaption> </figure></div><p></p>
+<p></p>
+<p>Entre le premier brevet en 1949 et sa première utilisation en 1974, la technologie fut le plus gros frein au futur EAN, et il fallait également qu’un accord soit trouvé entre distributeurs et industriels.</p>
+<p></p>
+<p></p>
+<div> <figure><img src="https://www.sellermania.com/wp-content/uploads/2019/06/premier-code-ean.jpg" alt=""></figure></div><p></p>
+<p></p>
+<p>C’est sur un paquet de chewing-gum&nbsp;dans un supermarché de l’Ohio que l’ancêtre de l’EAN, l,’UPC (Universel Product, code à 12 chiffres et toujours utilisé aux USA) fait sa grande arrivée.</p>
+<p></p>
+<p></p>
+<p>L’idée prend de l’ampleur en Europe et en 1977, l’EAN voit le jour, composé de 13 chiffres. Très vite, c’est 150 pays qui vont utiliser ce code-barres. Grâce à la fameuse douchette, la lecture de code-barres devient possible et permet de reconnaître un produit en magasin instantanément.</p>
+<p></p>
+<p></p>
+<p><iframe onload="Wpfcll.r(this,true);" data-wpfc-original-src="https://player.ina.fr/player/embed/CAA8000625301/1/1b0bd203fbcd702f9bc9b10ac3d0fc21/wide/1" width="100%" height="400px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p></p>
+<p></p>
+<p>Le premier produit français doté de l’EAN est un paquet de galette, en 1980, et en 1982, Carrefour et Casino équipent leurs magasins de lecteurs de code-barres. Ce n’est qu’à la fin des années 90 que tous les magasins en sont équipés.</p>
+<p></p>
+<p></p>
+<p>La révolution apportée par les codes-barres est énorme&nbsp;: réduction de temps de passage en caisse, baisse des coûts de 40%, plus de sûreté dans les transactions, la gestion des stocks est optimisée. Aujourd’hui, c’est plus de 8 milliards de bip par jour dans le monde. La force de ce système réside dans le fait qu’il réunit tout le monde&nbsp;: distributeurs, fournisseurs &#8230; C’est l’organisation à but non lucratif GS1 (Global Standard One) qui attribue les codes EAN. GS1 fait évoluer en permanence l’EAN, pour permettre d’assurer aujourd’hui une traçabilité du produit à 100%.</p>
+<p></p>
+<p></p>
+<blockquote>
+<p>« Le code à barres est le premier standard finalement, celui que tout le monde utilise aujourd’hui dans le monde du commerce. »</p>
+</blockquote>
+<p></p>
+<p></p>
+<p>Sur le web, le code EAN permet également de pouvoir identifier un produit, et ainsi de constituer et gérer son catalogue produit, notamment sur les marketplaces.</p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
+<h2><span class="ez-toc-section" id="A_quoi_sert_l%E2%80%99EAN"></span>A quoi sert l’EAN ?<span class="ez-toc-section-end"></span></h2>
+<p></p>
+<p></p>
+<p>Le code EAN permet d’identifier un produit (ou emballage), permettant de suivre sa traçabilité et connaître ses caractéristiques et son but est de</p>
+<p></p>
+<p></p>
+<blockquote>
+<p>« concentrer un maximum d’informations sur un minimum de place » d’après Pierre Georget</p>
+</blockquote>
+<p></p>
+<p></p>
+<p>L’EAN est présent dans la plupart des pays du monde, et est défini comme modèle standard européen depuis 1997. Il est universellement utilisé pour identifier les unités de vente de la grande distribution.</p>
+<p></p>
+<p></p>
+<p>Il est présent sur tous types de biens à la consommation&nbsp;: vêtements, livres, produits alimentaires, médicaments, courrier.</p>
+<p></p>
+<p></p>
+<h2><span class="ez-toc-section" id="Les_avantages_du_code_EAN"></span>Les avantages du code EAN<span class="ez-toc-section-end"></span></h2>
+<p></p>
+<p></p>
+<p>Les code EAN présentent 3 avantages :</p>
+<p></p>
+<p></p>
+<ul>
+<li>Reconnaissance automatique du produit&nbsp;: il permet d’identifier son produit, son stock, son emplacement, son prix et donc de pouvoir suivre son évolution.</li>
+<li>Traçabilité&nbsp;: l’EAN permet de savoir le cycle de vie d’un produit&nbsp;: de sa provenance à son consommateur final</li>
+<li>Gain de temps&nbsp;: la gestion des stocks est simplifiée et optimisée grâce à l’EAN.</li>
+</ul>
+<p></p>
+<p></p>
+<h2><span class="ez-toc-section" id="Les_codes_EAN_sur_les_marketplaces"></span><br>Les codes EAN sur les marketplaces<span class="ez-toc-section-end"></span></h2>
+<p></p>
+<p></p>
+<p>Sur les marketplaces, l’EAN sert à identifier un produit unique. C’est grâce à lui qu’on peut référencer des milliers de produits, que ce soit sur Amazon, Fnac, Rakuten &#8230;</p>
+<p></p>
+<p></p>
+<p>Les marketplaces ont adopté l’EAN pour faciliter le référencement des produits sur leur site. Cela signifie que toutes les offres sur les marketplaces sont faites à partir du couple EAN-SKU (Stock Keeping Unit, la référence interne du vendeur). Ce couple est unique et permet une gestion efficace d&rsquo;un inventaire en ligne, surtout dans la gestion d&rsquo;un flux e-commerce.</p>
+<p></p>
+<p></p>
+<p>GS1 est l’organisme recommandé par toutes les marketplaces pour obtenir ses codes EAN, grâce au système GTIN (Global Trade Item Number). GS1 distribue et régule les codes-barres à l’international. Ils surveillent notamment qu’une société n’ait pas un code EAN en double par exemple.</p>
+<p></p>
+<p></p>
+<p>Si vous utilisez un autre site pour vous fournir ces codes, vous ne pouvez pas être sûr d’être les seuls à les utiliser. Cela pose un inconvénient majeur&nbsp;: si vous avez un code EAN pour votre produit qui ne provient pas d’une source sûre, votre produit pourrait se retrouver attacher à un produit différent, qui a le même EAN que vous. D’après l’organisation, 10% des codes EAN seraient erronés sur le web.</p>
+<p></p>
+<p></p>
+<p>En plus de permettre d’identifier un produit, le code EAN dispose de plusieurs avantages&nbsp;:</p>
+<p></p>
+<p></p>
+<ul>
+<li>Il aide à remonter dans les résultats de recherche Google. Selon ce dernier, le taux de clic est supérieur sur les fiches ayant un EAN, et on enregistre de 20 à 40% de ventes supplémentaires.</li>
+<li>Avoir un bon code EAN permet de profiter des informations des fiches produits déjà créées, mais également de récupérer les évaluations clients liées à cette fiche produit. On rappelle que, pour Amazon par exemple, une bonne fiche produit a minimum 15 avis clients et une moyenne de 3.5/5. </li>
+</ul>
+<p></p>
+<p></p>
+<h2><span class="ez-toc-section" id="Structure_d%E2%80%99un_code_EAN"></span><br>Structure d’un code EAN<span class="ez-toc-section-end"></span></h2>
+<p></p>
+<p></p>
+<div> <figure><img src="https://www.sellermania.com/wp-content/uploads/2019/06/stucture-code-ean.png" alt=""></figure></div><p></p>
+<p></p>
+<p>Le code EAN le plus utilisé est le code EAN-13. Comme son nom l’indique, il est composé de 13 chiffres, structuré en trois parties&nbsp;:</p>
+<p></p>
+<p></p>
+<ul>
+<li>Le préfixe entreprise&nbsp;: les trois premiers chiffres représentent le pays d’origine du produit (France&nbsp;: 300 à 379)</li>
+<li>La référence article&nbsp;:
+<ul>
+<li>les cinq chiffres suivants correspondent au code du fabricant (de 0 à 99&nbsp;999)</li>
+</ul>
+<ul>
+<li>Du 8 au 12<sup>ème</sup> chiffre, ce sont les numéros correspondant au produit du fabricant. Il y a donc 99&nbsp;999 possibilités pour chaque fabricant. Ces chiffres-là sont «&nbsp;libres&nbsp;» c’est-à-dire que chaque fabricant peut choisir les chiffres utilisés.</li>
+</ul>
+</li>
+<li>La clé de contrôle&nbsp;: le 13<sup>ème</sup> et dernier chiffre est un chiffre de contrôle&nbsp;: il est calculé en fonction des 12 premiers chiffres de l’EAN. Cette clé sert à valider le code-barres.</li>
+</ul>
+<p></p>
+<p></p>
+<p>Ce code est symbolisé par une séquence de barres blanches et noires, devenant ainsi un code-barres.</p>
+<p></p>
+<p></p>
+<blockquote>
+<p>« Cette combinaison permet théoriquement d’attribuer mille milliards de codes » affirme Pierre Georget, ex-président exécutif de GS1 France.</p>
+</blockquote>
+<p></p>
+<p></p>
+<h2><span class="ez-toc-section" id="Les_differents_types_de_codebarres"></span><br>Les différents types de code-barres<span class="ez-toc-section-end"></span></h2>
+<p></p>
+<p></p>
+<p>Il existe deux sortes de code-barres&nbsp;: le code-barres linéaires (et linéaires empilés), ainsi que les codes-barres à deux dimensions.</p>
+<p></p>
+<p></p>
+<p>L’EAN fait partie de la première catégorie. Il existe différentes EAN&nbsp;: EAN-8, EAN-13 et EAN-128. Le code EAN-8 est utilisé sur les produits de petite taille et l’EAN-13 sur le reste des produits. L’EAN-128 n’est pas un code-barres à proprement parlé&nbsp;: il permet aux distributeurs et producteurs de s’échanger des données. Tous ces EAN sont des codes GTIN. Ces codes peuvent être différents en fonction du pays et du type vendu&nbsp;:</p>
+<p></p>
+<p></p>
+<ul>
+<li>UPC&nbsp;: 12 chiffres pour les USA</li>
+<li>EAN&nbsp;: 13 chiffres pour l’Europe</li>
+<li>JAN (Japanese Article Number)&nbsp;: 8 à 13 chiffres pour le Japon</li>
+<li>ISBN (International Standard Book Number)&nbsp;: 10 ou 13 chiffres pour les livres. Ce code est encore beaucoup utilisé sur Amazon.</li>
+</ul>
+<p></p>
+<p></p>
+<p>Composés de barres blanches et noires, ces codes sont appelés linéaires car ils peuvent être lu dans le sens horizontal.</p>
+<p></p>
+<p></p>
+<p>Ils existent également les codes-barres linéaires empilés&nbsp;: ils regroupent plusieurs code-barres, situé les uns sur les autres et sont lus verticalement.</p>
+<p></p>
+<p></p>
+<p><img src="https://www.sellermania.com/wp-content/uploads/2019/06/QR-code.jpg"></p>
+<p>L’exemple le plus connu de code-barres à deux dimensions est le QR Code. A la différence du code-barres linéaire, celui-ci peut être lu horizontalement et verticalement. Ils permettent également de pouvoir contenir plus d’informations qu’un code-barres classique. Ces nouveaux codes sont utilisés principalement dans la publicité et la distribution.</p>
+<p></p>
+<p></p>
+<p>Après avoir révolutionné le monde de la grande distribution, le code EAN est devenue un élément indispensable sur les marketplaces. En apportant précision et fiabilité, l’EAN et ses 13 chiffres permettent de se retrouver dans le grand catalogue des places de marchés web.</p>
+<p></p></div></div></div></div></div></div></div></div></section></div></div></div><div style="display: none;" class="kk-star-ratings kksr-valign-bottom kksr-align-left" data-id="47226" data-slug="">
+<div class="kksr-stars">
+<div class="kksr-stars-inactive">
+<div class="kksr-star" data-star="1">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star" data-star="2">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star" data-star="3">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star" data-star="4">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star" data-star="5">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div></div><div class="kksr-stars-active" style="width: 92.5px;">
+<div class="kksr-star">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div><div class="kksr-star">
+<div class="kksr-icon" style="width: 17px; height: 17px;"></div></div></div></div><div class="kksr-legend"> <strong class="kksr-score">4.5</strong> <span class="kksr-muted">/</span> <strong>5</strong> <span class="kksr-muted">(</span> <strong class="kksr-count">15</strong> <span class="kksr-muted"> votes </span> <span class="kksr-muted">)</span></div></div></div><nav class="navigation post-navigation" role="navigation" aria-label="Read more articles">
+<h2 class="screen-reader-text">Read more articles</h2>
+<div class="nav-links"><div class="nav-previous"><a href="https://www.sellermania.com/blog/news/plus-loin-quexcel-a-quoi-sert-la-nouvelle-fonction-liste-verticale-de-sellermania/" rel="prev"><span class="title"><i class="fas fa-long-arrow-alt-left" aria-hidden="true"></i>Article précédent</span><span class="post-title">Plus loin qu&rsquo;Excel : à quoi sert la nouvelle fonction LISTE VERTICALE de Sellermania</span></a></div><div class="nav-next"><a href="https://www.sellermania.com/blog/news/la-force-est-avec-lafterwork-marketplaces/" rel="next"><span class="title"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i>Article suivant</span><span class="post-title">La force est avec l’Afterwork Marketplaces</span></a></div></div></nav>
+</article></div></div><aside id="right-sidebar" class="sidebar-container widget-area sidebar-primary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" role="complementary" aria-label="Primary Sidebar">
+<div id="right-sidebar-inner" class="clr">
+<div id="recent-posts-4" class="sidebar-box widget_recent_entries clr"> <h4 class="widget-title">Articles récents</h4> <ul> <li> <a href="https://www.sellermania.com/blog/news/decouvrez-la-v3-de-sellermania/">Découvrez la V3 de Sellermania</a> </li> <li> <a href="https://www.sellermania.com/blog/news/amazon-choice-le-graal-de-la-mise-en-avant-pour-les-marques/">Amazon&rsquo;s Choice : le graal de la mise en avant pour les marques</a> </li> <li> <a href="https://www.sellermania.com/blog/news/ventes-marketplace-covid/">Confinement : +150% de croissance sur les marketplaces</a> </li> <li> <a href="https://www.sellermania.com/blog/news/difference-gestionnaires-de-flux-marketplaces/">Comment différencier les gestionnaires de flux marketplaces ?</a> </li> </ul></div></div></aside></div></main>
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+<div id="footer-inner" class="clr">
+<div id="footer-widgets" class="oceanwp-row clr">
+<div class="footer-widgets-inner container">
+<div class="footer-box span_1_of_4 col col-1">
+<div id="custom_html-3" class="widget_text footer-widget widget_custom_html clr"><h4 class="widget-title">Contactez-nous</h4><div class="textwidget custom-html-widget"><p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; Courrier : 10 rue de Penthièvre - 75008 Paris</p> <p><i class="fa fa-map-marker" aria-hidden="true"></i> Rendez-vous : 23 rue Etienne Marcel - 75001 Paris </p> <p style="margin-top:-5%"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp;+33 01 79 75 53 00</p> <p style="margin-top:-5%"><a href="/contact/"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp; Par e-mail</a> </p></div></div></div><div class="footer-box span_1_of_4 col col-2">
+<div id="custom_html-5" class="widget_text footer-widget widget_custom_html clr"><h4 class="widget-title">vos projets marketplaces</h4><div class="textwidget custom-html-widget"><a href="https://www.sellermania.com/vendre-sur-les-marketplaces/">Vendre sur les marketplaces</a><br/> <a href="/vendre-sur-les-marketplaces/vendre-sur-amazon/">Vendre sur Amazon</a><br/> <a href="/vendre-sur-les-marketplaces/vendre-sur-cdiscount-marketplace/">Vendre sur Cdiscount</a><br/> <a href="/vendre-sur-les-marketplaces/vendre-sur-rakuten-priceminister/">Vendre sur Rakuten Priceminister</a><br/> <a href="/vendre-sur-les-marketplaces/vendre-sur-fnac-marketplace/">Vendre sur Fnac Marketplace</a><br/> <a href="/vendre-sur-les-marketplaces/vendre-sur-rue-du-commerce/">Vendre sur Rue du Commerce</a><br/> <a href="/vendre-sur-les-marketplaces/darty-marketplace/">Vendre sur Darty Marketplace</a><br/> <a href="/vendre-sur-les-marketplaces/vendre-sur-back-market/">Vendre sur Back Market</a><br/> <a href="/vendre-sur-les-marketplaces/vendre-sur-la-redoute/">Vendre sur La Redoute</a><br/></div></div></div><div class="footer-box span_1_of_4 col col-3">
+<div id="custom_html-6" class="widget_text footer-widget widget_custom_html clr"><h4 class="widget-title">plan du site</h4><div class="textwidget custom-html-widget"><a href="/a-propos-de-sellermania/">A propos de Sellermania</a><br/> <a href="/plateforme-pour-vendeurs-marketplaces/">Fonctionnalités du logiciel</a><br/> <a href="/marketplaces/">Marketplaces</a><br/> <a href="/ressources/">Ressources</a><br/> <a href="/blog">Blog</a><br/> <a href="/avis-clients">Avis clients</a><br/> <a href="/vie-privee">Vie privée</a><br/> <a href="/contact">Contact</a><br/> <a href="https://www.sellermania.com/module-prestashop-de-gestion-de-marketplaces/">Télécharger le module Prestashop</a> <a href="https://www.sellermania.com/module-magento-gestion-marketplaces/">Télécharger le module Magento</a></div></div></div><div class="footer-box span_1_of_4 col col-4">
+<div id="media_image-5" class="footer-widget widget_media_image clr"><a href="/"><img onload="Wpfcll.r(this,true);" src="https://www.sellermania.com/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif" width="190" height="52" data-wpfc-original-src="https://www.sellermania.com/wp-content/uploads/2019/06/logo-sellermania-header-190x52.png" class="image wp-image-46814 attachment-full size-full" alt="Logo sellermania blanc fond noir" loading="lazy" style="max-width: 100%; height: auto;"/></a></div></div></div></div></div></footer></div></div><a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up" aria-label="Scroll to the top of the page"></span></a>
+<noscript><iframe onload="Wpfcll.r(this,true);" data-wpfc-original-src="https://www.googletagmanager.com/ns.html?id=GTM-N56ZXS6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript id="wpfc-google-fonts"><link rel='stylesheet' id='oceanwp-google-font-muli-css' href='//fonts.googleapis.com/css?family=Muli%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&#038;subset=latin&#038;display=swap&#038;ver=5.6' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Muli%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.6' type='text/css' media='all'/>
+</noscript>
+<script>var _hsq=_hsq||[];
+_hsq.push(["setContentType", "blog-post"]);</script>
+<script>var ajaxurl='https://www.sellermania.com/wp-admin/admin-ajax.php';</script>
+<script>var _paq=_paq||[];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function(){
+var u="//analytics.sellermania.com/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '3']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();</script>
+<script id='contact-form-7-js-extra'>var wpcf7={"apiSettings":{"root":"https:\/\/www.sellermania.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};</script>
+<script id='kk-star-ratings-js-extra'>var kk_star_ratings={"action":"kk-star-ratings","endpoint":"https:\/\/www.sellermania.com\/wp-admin\/admin-ajax.php","nonce":"68f8980a65"};</script>
+<script id='leadin-script-loader-js-js-extra'>var leadin_wordpress={"userRole":"visitor","pageType":"post","leadinPluginVersion":"7.48.46"};</script>
+<script id='oceanwp-main-js-extra'>var oceanwpLocalize={"isRTL":"","menuSearchStyle":"drop_down","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","stickyChoose":"auto","stickyStyle":"shrink","shrinkLogoHeight":"56","stickyEffect":"none","hasStickyTopBar":"","hasStickyMobile":""};</script>
+<script id='ez-toc-js-js-extra'>var ezTOC={"scroll_offset":"0"};</script>
+<script id='elementor-pro-frontend-js-before'>var ElementorProFrontendConfig={"ajaxurl":"https:\/\/www.sellermania.com\/wp-admin\/admin-ajax.php","nonce":"a6ad2f5811","i18n":{"toc_no_headings_found":"Aucun titre n\u2019a \u00e9t\u00e9 trouv\u00e9 sur cette page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.sellermania.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
+<script id='elementor-frontend-js-before'>var elementorFrontendConfig={"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.14","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/www.sellermania.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":47226,"title":"D%C3%A9finition%20du%20code%20EAN%20-%20Sellermania","excerpt":"","featuredImage":"https:\/\/www.sellermania.com\/wp-content\/uploads\/2019\/06\/Code-ean-d\u00e9finition.jpg"}};</script>
+<script src='//www.sellermania.com/wp-content/cache/wpfc-minified/96jc8ati/bizi9.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.11.2/TweenMax.min.js' id='gw-tweenmax-js'></script>
+<script src='//www.sellermania.com/wp-content/cache/wpfc-minified/ft7kq4sl/bizi9.js'></script>
+<script>(function(o){var b="https://turbolion.io/anywhere/",t="8f14887edb9c40d19b8839b235e1c1501cf5dbe7ae404def965cecb97de949a4",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
+<script src="https://kit.fontawesome.com/d659a94fda.js" crossorigin="anonymous"></script>
+<script>(function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:1166203,hjsv:6};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script>
+<script id="hs-script-loader" async defer src="//js.hs-scripts.com/3907771.js"></script>
+<script>(function(){
+var hbspt=window.hbspt=window.hbspt||{};
+hbspt.forms=hbspt.forms||{};
+hbspt._wpFormsQueue=[];
+hbspt.enqueueForm=function(formDef){
+if(hbspt.forms&&hbspt.forms.create){
+hbspt.forms.create(formDef);
+}else{
+hbspt._wpFormsQueue.push(formDef);
+}}
+if(!window.hbspt.forms.create){
+Object.defineProperty(window.hbspt.forms, 'create', {
+configurable: true,
+get: function(){
+return hbspt._wpCreateForm;
+},
+set: function(value){
+hbspt._wpCreateForm=value;
+while (hbspt._wpFormsQueue.length){
+var formDef=hbspt._wpFormsQueue.shift();
+if(!document.currentScript){
+var formScriptId='leadin-forms-v2-js';
+hubspot.utils.currentScript=document.getElementById(formScriptId);
+}
+hbspt._wpCreateForm.call(hbspt.forms, formDef);
+}},
+});
+}})();</script>
+<script id="hs-script-loader" async defer src="//js.hs-scripts.com/3907771.js"></script>
+<script defer src='//www.sellermania.com/wp-content/cache/wpfc-minified/k2xbp214/bizi9.js'></script>
+<script defer src='//www.sellermania.com/wp-content/cache/wpfc-minified/mldwe9ch/bizi9.js' id='kk-star-ratings-js'></script>
+<script async defer id="hs-script-loader" src='https://js.hs-scripts.com/3907771.js?integration=WordPress' id='leadin-script-loader-js-js'></script>
+<script defer src='//www.sellermania.com/wp-content/cache/wpfc-minified/d5jc3qjy/bizi9.js'></script>
+<!--[if lt IE 9]><script defer src='//www.sellermania.com/wp-content/cache/wpfc-minified/ma6nx1gx/bizi9.js' id='html5shiv-js'></script><![endif]-->
+<script defer src='//www.sellermania.com/wp-content/cache/wpfc-minified/8x4os4y0/bjom5.js'></script>
+<script defer src='https://kit.fontawesome.com/d659a94fda.js?ver=3.0.8' id='font-awesome-pro-js'></script>
+<script>document.addEventListener('DOMContentLoaded',function(){function wpfcgl(){var wgh=document.querySelector('noscript#wpfc-google-fonts').innerText, wgha=wgh.match(/<link[^\>]+>/gi);for(i=0;i<wgha.length;i++){var wrpr=document.createElement('div');wrpr.innerHTML=wgha[i];document.body.appendChild(wrpr.firstChild);}}wpfcgl();});</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 1.3118100166321 seconds, on 10-12-20 16:36:11 --><!-- via php -->
